@@ -1,0 +1,33 @@
+p span {
+	color: black;
+	font-weight: bold;
+}
+
+h1 span {
+	color: #2980b8;
+	font-weight: bold;
+
+}
+
+h2 span {
+	color: #FF0000;
+	font-size: 55px;
+}
+
+h3 span {
+	color: #CCFFCC;
+	font-size: 70px;
+}
+
+h4 {
+	color: #3399FF;
+
+}
+
+h5 {
+	color: #0000FF;
+}
+
+h6 {
+	color: #66FF66;
+}
